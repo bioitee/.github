@@ -2,11 +2,7 @@
 
 生物信息学是一个**跨学科的大领域**，一直以来，做生物信息分析的工程师都需要跟 IT 打交道。曾经一段时间里，生物信息和 IT 是一个两级分化的领域，中间横跨着计算机科学和生物学各个学科之间的专业鸿沟。但随着近几年来 IT 的发展，AI 以及各种云存储云计算的崛起，IT 开始向 BIO 领域扩展，**Bio in IT**，或者 **Bio+IT** 开始成为生物信息学的新标配。
 
-<br/>
-
 我们希望能有更多 **Bio+IT** 经验的工作者，来为从事生物医学的生信人不断缩短 **BIO** 与 **IT** 专业之间的认识差距，帮助你我成长，这也是 **"BioIT爱好者"** 公众号的初衷。
-
-<br/>
 
 <!--
 <p align="center"><a class="fancya" data-fancybox="gallery" href="https://github.com/BioITee/bioitee.github.io/assets/26101369/96b9b20f-98ed-41e3-9d30-8af7fceb01b4"
